@@ -33,7 +33,14 @@ Based on the research findings, key recommendations for Accenture include:
 * Microsoft Word
 
 ## Key Deliverable:
-* **Full Research Paper**: [Accenture.pdf]
+* **Full Research Paper**: [https://github.com/aarushijain16/knowledge-management-strategy-research/blob/3c63ecdaefdad838af29ac7ac8bf70a527715b8f/Accenture.pdf]
 
 ## Visualisations:
+* **Figure 1: Knowledge Management Strategies of Accenture** (Page 4, Figure 1)
+* **Figure 2: Enablers and Obstacles of Knowledge Management** (Page 5, Figure 2)
+* **Figure 3: Digital Strategies of Accenture** (Page 7, Figure 3)
+* **Figure 4: SWOT Analysis** (Page 9, Figure 4)
+* **Figure 5: SECI Model** (Page 11, Figure 5)
+  
+
 
