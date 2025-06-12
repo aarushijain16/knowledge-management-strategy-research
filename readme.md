@@ -39,7 +39,7 @@ This research was conducted through a comprehensive review of existing literatur
 * Microsoft PowerPoint
 
 ## Key Deliverable:
-* **Full Research Paper** : []
+* **Full Research Paper** : [https://github.com/aarushijain16/knowledge-management-strategy-research/blob/8a66ed54915eb42548057488192358e63274d871/Uber.pdf]
 
 ## Visualisations:
 * **Knowledge Management Strategy: Codification** (Page 10)
