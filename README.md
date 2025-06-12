@@ -42,7 +42,7 @@ Based on the research findings, key recommendations for Accenture include:
 * **Figure 4: SWOT Analysis** (Page 9, Figure 4)
 * **Figure 5: SECI Model** (Page 11, Figure 5)
 
-# Knowledge Management and Digital Strategy at UBER
+# Knowledge Management and Digital Strategies at UBER
 
 ## Executive Summary:
 This research project explores the pivotal role of Knowledge Management (KM) and digital strategies in Uber's rapid global expansion and success. It analyses how Uber leverages its digital platform and data-driven approaches, alongside its KM strategies, to adapt to dynamic markets and maintain its position as a leading technology-driven transportation and delivery service. 
