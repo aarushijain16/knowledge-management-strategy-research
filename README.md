@@ -92,7 +92,7 @@ This research was conducted through a comprehensive review of existing literatur
 * **Stakeholder Analysis** (Page 17)
 * **Porter's Five Forces Analysis** (Page 18)
 * **SWOT Analysis** (Page 19)
-* **PESTLE Analysis** (Pahe 20)
+* **PESTLE Analysis** (Page 20)
 * **SECI Model** (Page 21)
   
 
