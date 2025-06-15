@@ -36,11 +36,11 @@ Based on the research findings, key recommendations for Accenture include:
 * **Full Research Paper**: [https://github.com/aarushijain16/knowledge-management-strategy-research/blob/3c63ecdaefdad838af29ac7ac8bf70a527715b8f/Accenture.pdf]
 
 ## Visualisations:
-* **Figure 1**: [Knowledge Management Strategies of Accenture]()
-* **Figure 2**: [Enablers and Obstacles of Knowledge Management]()
-* **Figure 3**: [Digital Strategies of Accenture]()
-* **Figure 4**: [SWOT Analysis]()
-* **Figure 5**: [SECI Model]()
+* **Figure 1**: [Knowledge Management Strategies of Accenture](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A1.jpg)
+* **Figure 2**: [Enablers and Obstacles of Knowledge Management](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A2.jpg)
+* **Figure 3**: [Digital Strategies of Accenture](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A3.jpg)
+* **Figure 4**: [SWOT Analysis](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A4.jpg)
+* **Figure 5**: [SECI Model](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A5.jpg)
 
 # Knowledge Management and Digital Strategies at UBER
 
@@ -86,14 +86,14 @@ This research was conducted through a comprehensive review of existing literatur
 * **Full Research Paper** : [https://github.com/aarushijain16/knowledge-management-strategy-research/blob/8a66ed54915eb42548057488192358e63274d871/Uber.pdf]
 
 ## Visualisations:
-* **Figure 1**: [Knowledge Management Strategy: Codification]()
-* **Figure 2**: [Digital Strategies]()
-* **Figure 3**: [Marketing Strategies]()
-* **Figure 4**: [Stakeholder Analysis]()
-* **Figure 5**: [Porter's Five Forces Analysis]()
-* **FIgure 6**: [SWOT Analysis]()
-* **Figure 7**: [PESTLE Analysis]()
-* **FIgure 8**: [SECI Model]()
+* **Figure 1**: [Knowledge Management Strategy: Codification](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/U1.png)
+* **Figure 2**: [Digital Strategies](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/U2.png)
+* **Figure 3**: [Marketing Strategies](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/U3.png)
+* **Figure 4**: [Stakeholder Analysis](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/U4.png)
+* **Figure 5**: [Porter's Five Forces Analysis](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/U5.png)
+* **Figure 6**: [SWOT Analysis](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/U6.png)
+* **Figure 7**: [PESTLE Analysis](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/U7.png)
+* **Figure 8**: [SECI Model](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/U8.png)
   
 
 
