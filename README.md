@@ -36,11 +36,11 @@ Based on the research findings, key recommendations for Accenture include:
 * **Full Research Paper**: [https://github.com/aarushijain16/knowledge-management-strategy-research/blob/3c63ecdaefdad838af29ac7ac8bf70a527715b8f/Accenture.pdf]
 
 ## Visualisations:
-* **Figure 1**: [Knowledge Management Strategies of Accenture](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A1.jpg)
-* **Figure 2**: [Enablers and Obstacles of Knowledge Management](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A2.jpg)
-* **Figure 3**: [Digital Strategies of Accenture](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A3.jpg)
-* **Figure 4**: [SWOT Analysis](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A4.jpg)
-* **Figure 5**: [SECI Model](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A5.jpg)
+* **Figure 1**: [Knowledge Management Strategies of Accenture](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A1.png)
+* **Figure 2**: [Enablers and Obstacles of Knowledge Management](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A2.png)
+* **Figure 3**: [Digital Strategies of Accenture](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A3.png)
+* **Figure 4**: [SWOT Analysis](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A4.png)
+* **Figure 5**: [SECI Model](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A5.png)
 
 # Knowledge Management and Digital Strategies at UBER
 
