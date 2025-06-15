@@ -36,11 +36,11 @@ Based on the research findings, key recommendations for Accenture include:
 * **Full Research Paper**: [https://github.com/aarushijain16/knowledge-management-strategy-research/blob/3c63ecdaefdad838af29ac7ac8bf70a527715b8f/Accenture.pdf]
 
 ## Visualisations:
-* **Figure 1: Knowledge Management Strategies of Accenture** (Page 4, Figure 1)
-* **Figure 2: Enablers and Obstacles of Knowledge Management** (Page 5, Figure 2)
-* **Figure 3: Digital Strategies of Accenture** (Page 7, Figure 3)
-* **Figure 4: SWOT Analysis** (Page 9, Figure 4)
-* **Figure 5: SECI Model** (Page 11, Figure 5)
+* **Figure 1**: [Knowledge Management Strategies of Accenture]()
+* **Figure 2**: [Enablers and Obstacles of Knowledge Management]()
+* **Figure 3**: [Digital Strategies of Accenture]()
+* **Figure 4**: [SWOT Analysis]()
+* **Figure 5**: [SECI Model]()
 
 # Knowledge Management and Digital Strategies at UBER
 
@@ -86,14 +86,14 @@ This research was conducted through a comprehensive review of existing literatur
 * **Full Research Paper** : [https://github.com/aarushijain16/knowledge-management-strategy-research/blob/8a66ed54915eb42548057488192358e63274d871/Uber.pdf]
 
 ## Visualisations:
-* **Knowledge Management Strategy: Codification** (Page 10)
-* **Digital Strategies** (Page 13)
-* **Marketing Strategies** (Page 15)
-* **Stakeholder Analysis** (Page 17)
-* **Porter's Five Forces Analysis** (Page 18)
-* **SWOT Analysis** (Page 19)
-* **PESTLE Analysis** (Page 20)
-* **SECI Model** (Page 21)
+* **Figure 1**: [Knowledge Management Strategy: Codification]()
+* **Figure 2**: [Digital Strategies]()
+* **Figure 3**: [Marketing Strategies]()
+* **Figure 4**: [Stakeholder Analysis]()
+* **Figure 5**: [Porter's Five Forces Analysis]()
+* **FIgure 6**: [SWOT Analysis]()
+* **Figure 7**: [PESTLE Analysis]()
+* **FIgure 8**: [SECI Model]()
   
 
 
