@@ -33,7 +33,7 @@ Based on the research findings, key recommendations for Accenture include:
 * Microsoft Word
 
 ## Key Deliverable:
-* **Full Research Paper**: [https://github.com/aarushijain16/knowledge-management-strategy-research/blob/3c63ecdaefdad838af29ac7ac8bf70a527715b8f/Accenture.pdf]
+* [**Full Research Paper**](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/3c63ecdaefdad838af29ac7ac8bf70a527715b8f/Accenture.pdf)
 
 ## Visualisations:
 * **Figure 1**: [Knowledge Management Strategies of Accenture](https://github.com/aarushijain16/knowledge-management-strategy-research/blob/main/A1.png)
